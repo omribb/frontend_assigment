@@ -1,0 +1,12 @@
+{
+  "name": "frontend_assigment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.31"
+  }
+}

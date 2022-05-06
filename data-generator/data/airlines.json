@@ -1,0 +1,2677 @@
+[
+  {
+    "code": "TEST",
+    "name": "Test",
+    "logo": "123"
+  },
+  {
+    "code": "FV",
+    "name": "Rossiya Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFV.png"
+  },
+  {
+    "code": "C3",
+    "name": "Trade Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoC3.png"
+  },
+  {
+    "code": "XL",
+    "name": "LATAM Ecuador",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXL.png"
+  },
+  {
+    "code": "WY",
+    "name": "Oman Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWY.png"
+  },
+  {
+    "code": "WB",
+    "name": "RwandAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWB.png"
+  },
+  {
+    "code": "VT",
+    "name": "Air Tahiti",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVT.png"
+  },
+  {
+    "code": "QD",
+    "name": "JC International Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQD.png"
+  },
+  {
+    "code": "TK",
+    "name": "Turkish Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTK.png"
+  },
+  {
+    "code": "S7",
+    "name": "Siberia Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoS7.png"
+  },
+  {
+    "code": "SN",
+    "name": "Brussels Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSN.png"
+  },
+  {
+    "code": "TQ",
+    "name": "Tandem Aero",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTQ.png"
+  },
+  {
+    "code": "JE",
+    "name": "Mango",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJE.png"
+  },
+  {
+    "code": "4Z",
+    "name": "Airlink",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4Z.png"
+  },
+  {
+    "code": "EW",
+    "name": "Eurowings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEW.png"
+  },
+  {
+    "code": "BY",
+    "name": "Thomson Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBY.png"
+  },
+  {
+    "code": "AY",
+    "name": "Finnair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAY.png"
+  },
+  {
+    "code": "CA",
+    "name": "Air China",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCA.png"
+  },
+  {
+    "code": "FB",
+    "name": "Bulgaria Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFB.png"
+  },
+  {
+    "code": "ZT",
+    "name": "Titan Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZT.png"
+  },
+  {
+    "code": "D2",
+    "name": "Severstal Air Company",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoD2.png"
+  },
+  {
+    "code": "MT",
+    "name": "Thomas Cook",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMT.png"
+  },
+  {
+    "code": "TR",
+    "name": "Scoot",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTR.png"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoET.png"
+  },
+  {
+    "code": "B4",
+    "name": "ZanAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoB4.png"
+  },
+  {
+    "code": "FI",
+    "name": "Icelandair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFI.png"
+  },
+  {
+    "code": "KF",
+    "name": "Air Belgium",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKF.png"
+  },
+  {
+    "code": "2U",
+    "name": "Sun D'or",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2U.png"
+  },
+  {
+    "code": "P9",
+    "name": "Peruvian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP9.png"
+  },
+  {
+    "code": "DX",
+    "name": "Danish Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDX.png"
+  },
+  {
+    "code": "MS",
+    "name": "Egypt Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMS.png"
+  },
+  {
+    "code": "KA",
+    "name": "Dragon Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKA.png"
+  },
+  {
+    "code": "8L",
+    "name": "Lucky Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo8L.png"
+  },
+  {
+    "code": "MK",
+    "name": "Air Mauritius",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMK.png"
+  },
+  {
+    "code": "LZ",
+    "name": "Swiss Global Air Lines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLZ.png"
+  },
+  {
+    "code": "MU",
+    "name": "China Eastern Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMU.png"
+  },
+  {
+    "code": "KM",
+    "name": "Air Malta",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKM.png"
+  },
+  {
+    "code": "3K",
+    "name": "Jetstar Asia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3K.png"
+  },
+  {
+    "code": "SK",
+    "name": "Scandinavian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSK.png"
+  },
+  {
+    "code": "MAR",
+    "name": "Air Mediterranean",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMAR.png"
+  },
+  {
+    "code": "AG",
+    "name": "Aruba Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAG.png"
+  },
+  {
+    "code": "5J",
+    "name": "Cebu Pacific",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5J.png"
+  },
+  {
+    "code": "8M",
+    "name": "Myanmar Airways International",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo8M.png"
+  },
+  {
+    "code": "VE",
+    "name": "EasyFly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVE.png"
+  },
+  {
+    "code": "UH",
+    "name": "Atlasjet Ukraine",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUH.png"
+  },
+  {
+    "code": "QS",
+    "name": "Travel Service",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQS.png"
+  },
+  {
+    "code": "LQ",
+    "name": "Lanmei Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLQ.png"
+  },
+  {
+    "code": "LV",
+    "name": "OpenSkies",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLV.png"
+  },
+  {
+    "code": "JJ",
+    "name": "TAM Linhas Aerea",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJJ.png"
+  },
+  {
+    "code": "FR",
+    "name": "Ryanair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFR.png"
+  },
+  {
+    "code": "Q9",
+    "name": "Wataniya Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQ9.png"
+  },
+  {
+    "code": "KU",
+    "name": "Kuwait Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKU.png"
+  },
+  {
+    "code": "BA",
+    "name": "British Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBA.png"
+  },
+  {
+    "code": "SR",
+    "name": "Sundair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSR.png"
+  },
+  {
+    "code": "7N",
+    "name": "PAWA Dominicana ",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7N.png"
+  },
+  {
+    "code": "TOM",
+    "name": "TOM",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTOM.png"
+  },
+  {
+    "code": "2I",
+    "name": "Star Perú",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2I.png"
+  },
+  {
+    "code": "BT",
+    "name": "Air Baltic",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBT.png"
+  },
+  {
+    "code": "HO",
+    "name": "Juneyao Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHO.png"
+  },
+  {
+    "code": "IN",
+    "name": "NAM Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIN.png"
+  },
+  {
+    "code": "W4",
+    "name": "LC Perú",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoW4.png"
+  },
+  {
+    "code": "YC",
+    "name": "Yamal Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYC.png"
+  },
+  {
+    "code": "6Y",
+    "name": "Smartlynx Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6Y.png"
+  },
+  {
+    "code": "CE",
+    "name": "Chalair Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCE.png"
+  },
+  {
+    "code": "TX",
+    "name": "Air Caraibes",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTX.png"
+  },
+  {
+    "code": "WX",
+    "name": "City Jet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWX.png"
+  },
+  {
+    "code": "AF",
+    "name": "Air France",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAF.png"
+  },
+  {
+    "code": "BL",
+    "name": "Jetstar Pacific",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBL.png"
+  },
+  {
+    "code": "GS",
+    "name": "TianJin Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGS.png"
+  },
+  {
+    "code": "DY",
+    "name": "Norwegian Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDY.png"
+  },
+  {
+    "code": "V0",
+    "name": "CONVIASA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoV0.png"
+  },
+  {
+    "code": "SQ",
+    "name": "Singapore Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSQ.png"
+  },
+  {
+    "code": "FH",
+    "name": "Freebird Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFH.png"
+  },
+  {
+    "code": "TM",
+    "name": "LAM Mozambique Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTM.png"
+  },
+  {
+    "code": "BV",
+    "name": "Blue Panorama Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBV.png"
+  },
+  {
+    "code": "PG",
+    "name": "Bangkok Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPG.png"
+  },
+  {
+    "code": "I9",
+    "name": "Air Italy",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoI9.png"
+  },
+  {
+    "code": "HR",
+    "name": "Hahn Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHR.png"
+  },
+  {
+    "code": "XJ",
+    "name": "Thai Airasia X",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXJ.png"
+  },
+  {
+    "code": "EH",
+    "name": "ANA Wings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEH.png"
+  },
+  {
+    "code": "WS",
+    "name": "WestJet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWS.png"
+  },
+  {
+    "code": "NH",
+    "name": "All Nippon Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNH.png"
+  },
+  {
+    "code": "EU",
+    "name": "Chengdu Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEU.png"
+  },
+  {
+    "code": "SJ",
+    "name": "Sriwijaya Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSJ.png"
+  },
+  {
+    "code": "TN",
+    "name": "Air Tahiti",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTN.png"
+  },
+  {
+    "code": "4D",
+    "name": "Air Sinai",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4D.png"
+  },
+  {
+    "code": "N4",
+    "name": "Nordwind Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoN4.png"
+  },
+  {
+    "code": "R3",
+    "name": "Yakutia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoR3.png"
+  },
+  {
+    "code": "IZ",
+    "name": "Arkia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIZ.png"
+  },
+  {
+    "code": "GM",
+    "name": "Germania Flug",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGM.png"
+  },
+  {
+    "code": "PZ",
+    "name": "LATAM Paraguay",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPZ.png"
+  },
+  {
+    "code": "SDR",
+    "name": "Sundair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSDR.png"
+  },
+  {
+    "code": "TU",
+    "name": "Tunisair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTU.png"
+  },
+  {
+    "code": "G9",
+    "name": "Air Arabia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoG9.png"
+  },
+  {
+    "code": "UU",
+    "name": "Air Austral",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUU.png"
+  },
+  {
+    "code": "QR",
+    "name": "Qatar Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQR.png"
+  },
+  {
+    "code": "7R",
+    "name": "RusLine",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7R.png"
+  },
+  {
+    "code": "NI",
+    "name": "Portugalia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNI.png"
+  },
+  {
+    "code": "VZ",
+    "name": "Thai Vietjet Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVZ.png"
+  },
+  {
+    "code": "W6",
+    "name": "Wizz",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoW6.png"
+  },
+  {
+    "code": "YU",
+    "name": "Euro Atlantic Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYU.png"
+  },
+  {
+    "code": "WE",
+    "name": "Thai Smile Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWE.png"
+  },
+  {
+    "code": "AI",
+    "name": "Air India",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAI.png"
+  },
+  {
+    "code": "ME",
+    "name": "Middle East Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoME.png"
+  },
+  {
+    "code": "H2",
+    "name": "Sky Airline",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoH2.png"
+  },
+  {
+    "code": "YM",
+    "name": "Montenegro Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYM.png"
+  },
+  {
+    "code": "S4",
+    "name": "Azores Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoS4.png"
+  },
+  {
+    "code": "JL",
+    "name": "Japan Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJL.png"
+  },
+  {
+    "code": "OR",
+    "name": "TUI fly Netherlands",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOR.png"
+  },
+  {
+    "code": "VY",
+    "name": "Vueling",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVY.png"
+  },
+  {
+    "code": "AO",
+    "name": "Air Juan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAO.png"
+  },
+  {
+    "code": "UI",
+    "name": "Auric Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUI.png"
+  },
+  {
+    "code": "DEFAULT",
+    "name": "default",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDEFAULT.png"
+  },
+  {
+    "code": "ELB",
+    "name": "Ellinair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoELB.png"
+  },
+  {
+    "code": "TV",
+    "name": "Tibet Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTV.png"
+  },
+  {
+    "code": "TA",
+    "name": "Taca Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTA.png"
+  },
+  {
+    "code": "EZY",
+    "name": "Easyjet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEZY.png"
+  },
+  {
+    "code": "BUC",
+    "name": "Bulgarian Air Charter",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBUC.png"
+  },
+  {
+    "code": "PQ",
+    "name": "SkyUp",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPQ.png"
+  },
+  {
+    "code": "D7",
+    "name": "AirAsia X",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoD7.png"
+  },
+  {
+    "code": "A3",
+    "name": "Aegean Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoA3.png"
+  },
+  {
+    "code": "TD",
+    "name": "Atlantis European Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTD.png"
+  },
+  {
+    "code": "P4",
+    "name": "Air Peace",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP4.png"
+  },
+  {
+    "code": "LG",
+    "name": "Luxair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLG.png"
+  },
+  {
+    "code": "AP",
+    "name": "AlbaStar",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAP.png"
+  },
+  {
+    "code": "HX",
+    "name": "Hong Kong Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHX.png"
+  },
+  {
+    "code": "CU",
+    "name": "Cubana de Aviacion",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCU.png"
+  },
+  {
+    "code": "GP",
+    "name": "APG Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGP.png"
+  },
+  {
+    "code": "GQ",
+    "name": "Sky Express",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGQ.png"
+  },
+  {
+    "code": "AC",
+    "name": "Air Canada",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAC.png"
+  },
+  {
+    "code": "6H",
+    "name": "Israir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6H.png"
+  },
+  {
+    "code": "WZ",
+    "name": "Red Wings Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWZ.png"
+  },
+  {
+    "code": "7C",
+    "name": "Jeju Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7C.png"
+  },
+  {
+    "code": "UK",
+    "name": "VISTARA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUK.png"
+  },
+  {
+    "code": "7O",
+    "name": "Travel Service Hungary",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7O.png"
+  },
+  {
+    "code": "OU",
+    "name": "Croatia Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOU.png"
+  },
+  {
+    "code": "6O",
+    "name": "Orbest",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6O.png"
+  },
+  {
+    "code": "XT",
+    "name": "Indonesia AirAsia X",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXT.png"
+  },
+  {
+    "code": "7G",
+    "name": "Star Flyer",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7G.png"
+  },
+  {
+    "code": "KN",
+    "name": "China United Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKN.png"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVN.png"
+  },
+  {
+    "code": "QZ",
+    "name": "Indonesia AirAsia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQZ.png"
+  },
+  {
+    "code": "HG",
+    "name": "Niki",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHG.png"
+  },
+  {
+    "code": "DI",
+    "name": "Norwegian Air UK",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDI.png"
+  },
+  {
+    "code": "AU",
+    "name": "Austral Lineas Aereas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAU.png"
+  },
+  {
+    "code": "U8",
+    "name": "Tus Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoU8.png"
+  },
+  {
+    "code": "4O",
+    "name": "Interjet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4O.png"
+  },
+  {
+    "code": "XG",
+    "name": "SunExpress",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXG.png"
+  },
+  {
+    "code": "UB",
+    "name": "Myanmar National Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUB.png"
+  },
+  {
+    "code": "LY0",
+    "name": "El Al",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLY0.png"
+  },
+  {
+    "code": "MD",
+    "name": "Air Madagascar",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMD.png"
+  },
+  {
+    "code": "HA",
+    "name": "Hawaiian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHA.png"
+  },
+  {
+    "code": "ID",
+    "name": "Batik Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoID.png"
+  },
+  {
+    "code": "Z8",
+    "name": "Línea Aérea Amaszonas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZ8.png"
+  },
+  {
+    "code": "SP",
+    "name": "SATA Air Açores",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSP.png"
+  },
+  {
+    "code": "9R",
+    "name": "SATENA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9R.png"
+  },
+  {
+    "code": "EL",
+    "name": "Ellinair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEL.png"
+  },
+  {
+    "code": "PY",
+    "name": "Surinam Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPY.png"
+  },
+  {
+    "code": "BE",
+    "name": "Flybe",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBE.png"
+  },
+  {
+    "code": "EB",
+    "name": "Wamos Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEB.png"
+  },
+  {
+    "code": "TWI",
+    "name": "Tailwind Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTWI.png"
+  },
+  {
+    "code": "OV",
+    "name": "SalamAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOV.png"
+  },
+  {
+    "code": "F7",
+    "name": "Darwin Airline",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoF7.png"
+  },
+  {
+    "code": "Y2",
+    "name": "Air Century",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoY2.png"
+  },
+  {
+    "code": "RC",
+    "name": "Atlantic Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRC.png"
+  },
+  {
+    "code": "W2",
+    "name": "FlexFlight",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoW2.png"
+  },
+  {
+    "code": "V3",
+    "name": "Carpatair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoV3.png"
+  },
+  {
+    "code": "DV",
+    "name": "SCAT Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDV.png"
+  },
+  {
+    "code": "CD",
+    "name": "Corendon Dutch Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCD.png"
+  },
+  {
+    "code": "X3",
+    "name": "TUIfly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoX3.png"
+  },
+  {
+    "code": "OD",
+    "name": "Malindo Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOD.png"
+  },
+  {
+    "code": "BF",
+    "name": "French Bee",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBF.png"
+  },
+  {
+    "code": "A4",
+    "name": "Azimuth",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoA4.png"
+  },
+  {
+    "code": "U2",
+    "name": "EasyJet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoU2.png"
+  },
+  {
+    "code": "9V",
+    "name": "Avior Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9V.png"
+  },
+  {
+    "code": "RE",
+    "name": "Stobart Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRE.png"
+  },
+  {
+    "code": "5W",
+    "name": "Astraeus Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5W.png"
+  },
+  {
+    "code": "DJ",
+    "name": "AirAsia Japan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDJ.png"
+  },
+  {
+    "code": "CX",
+    "name": "Cathay Pacific",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCX.png"
+  },
+  {
+    "code": "B6",
+    "name": "Jetblue Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoB6.png"
+  },
+  {
+    "code": "B7",
+    "name": "UNI Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoB7.png"
+  },
+  {
+    "code": "Z9",
+    "name": "Bek Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZ9.png"
+  },
+  {
+    "code": "NK",
+    "name": "Spirit Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNK.png"
+  },
+  {
+    "code": "AV",
+    "name": "Avianca",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAV.png"
+  },
+  {
+    "code": "UO",
+    "name": "HK Express",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUO.png"
+  },
+  {
+    "code": "2A",
+    "name": "רכבת - Deutsche Bahn",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2A.png"
+  },
+  {
+    "code": "H6",
+    "name": "Hageland Aviation Services",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoH6.png"
+  },
+  {
+    "code": "TDR",
+    "name": "Trade Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTDR.png"
+  },
+  {
+    "code": "LH",
+    "name": "Lufthansa",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLH.png"
+  },
+  {
+    "code": "CQ",
+    "name": "Czech Connect Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCQ.png"
+  },
+  {
+    "code": "5Q",
+    "name": "BQB Líneas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5Q.png"
+  },
+  {
+    "code": "DE",
+    "name": "Condor",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDE.png"
+  },
+  {
+    "code": "NU",
+    "name": "Japan Transocean Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNU.png"
+  },
+  {
+    "code": "F8",
+    "name": "Flair Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoF8.png"
+  },
+  {
+    "code": "LM",
+    "name": "Loganair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLM.png"
+  },
+  {
+    "code": "AZI",
+    "name": "Astra Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAZI.png"
+  },
+  {
+    "code": "YE",
+    "name": "Yanair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYE.png"
+  },
+  {
+    "code": "OA",
+    "name": "Olympic Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOA.png"
+  },
+  {
+    "code": "LYO",
+    "name": "Sun Dor",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLYO.png"
+  },
+  {
+    "code": "OHY",
+    "name": "Onur Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOHY.png"
+  },
+  {
+    "code": "V7",
+    "name": "Volotea",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoV7.png"
+  },
+  {
+    "code": "5F",
+    "name": "FlyOne",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5F.png"
+  },
+  {
+    "code": "HQ",
+    "name": "Thomas Cook ",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHQ.png"
+  },
+  {
+    "code": "BB",
+    "name": "Seaborne Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBB.png"
+  },
+  {
+    "code": "R5",
+    "name": "Jordan Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoR5.png"
+  },
+  {
+    "code": "KP",
+    "name": "ASKY airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKP.png"
+  },
+  {
+    "code": "YK",
+    "name": "AVIA TRAFFIC",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYK.png"
+  },
+  {
+    "code": "MI",
+    "name": "SilkAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMI.png"
+  },
+  {
+    "code": "MJ",
+    "name": "Myway Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMJ.png"
+  },
+  {
+    "code": "G4",
+    "name": "Allegiant Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoG4.png"
+  },
+  {
+    "code": "BVL",
+    "name": "Bul Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBVL.png"
+  },
+  {
+    "code": "RLX",
+    "name": "Go2Sky",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRLX.png"
+  },
+  {
+    "code": "4U",
+    "name": "German Wings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4U.png"
+  },
+  {
+    "code": "AK",
+    "name": "AirAsia Berhad",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAK.png"
+  },
+  {
+    "code": "P7",
+    "name": "Small Planet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP7.png"
+  },
+  {
+    "code": "VJ",
+    "name": "Vietjet Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVJ.png"
+  },
+  {
+    "code": "AR",
+    "name": "Aerolineas Argentinas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAR.png"
+  },
+  {
+    "code": "NP",
+    "name": "Nile Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNP.png"
+  },
+  {
+    "code": "Z7",
+    "name": "Amaszonas Uruguay",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZ7.png"
+  },
+  {
+    "code": "2L",
+    "name": "Helvetic Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2L.png"
+  },
+  {
+    "code": "G8",
+    "name": "GoAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoG8.png"
+  },
+  {
+    "code": "HM",
+    "name": "Air Seychelles",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHM.png"
+  },
+  {
+    "code": "PN",
+    "name": "West Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPN.png"
+  },
+  {
+    "code": "D9",
+    "name": "JSC DONAVIA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoD9.png"
+  },
+  {
+    "code": "CT",
+    "name": "Alitalia CityLiner",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCT.png"
+  },
+  {
+    "code": "0B",
+    "name": "Blue Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo0B.png"
+  },
+  {
+    "code": "TG",
+    "name": "Thai Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTG.png"
+  },
+  {
+    "code": "VS",
+    "name": "Virgin Atlantic",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVS.png"
+  },
+  {
+    "code": "MF",
+    "name": "Xiamen Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMF.png"
+  },
+  {
+    "code": "QC",
+    "name": "Cameroon Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQC.png"
+  },
+  {
+    "code": "FLIXBUS",
+    "name": "FLIXBUS",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFLIXBUS.png"
+  },
+  {
+    "code": "AE",
+    "name": "Mandarin Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAE.png"
+  },
+  {
+    "code": "RO",
+    "name": "Tarom",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRO.png"
+  },
+  {
+    "code": "BUR",
+    "name": "Air Bucharest",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBUR.png"
+  },
+  {
+    "code": "NZ",
+    "name": "Air New Zealand",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNZ.png"
+  },
+  {
+    "code": "I2",
+    "name": "Radio Iberia Express",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoI2.png"
+  },
+  {
+    "code": "RS",
+    "name": "Air Seoul",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRS.png"
+  },
+  {
+    "code": "9K",
+    "name": "Cape Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9K.png"
+  },
+  {
+    "code": "AS",
+    "name": "Alaska Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAS.png"
+  },
+  {
+    "code": "XQ",
+    "name": "SunExpress",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXQ.png"
+  },
+  {
+    "code": "IQ",
+    "name": "Qazaq Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIQ.png"
+  },
+  {
+    "code": "VB",
+    "name": "VivaAerobús",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVB.png"
+  },
+  {
+    "code": "KX",
+    "name": "Cayman Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKX.png"
+  },
+  {
+    "code": "PU",
+    "name": "Plus Ultra Líneas Aéreas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPU.png"
+  },
+  {
+    "code": "AW",
+    "name": "Africa World Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAW.png"
+  },
+  {
+    "code": "VO",
+    "name": "VLM AIRLINES",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVO.png"
+  },
+  {
+    "code": "HZ",
+    "name": "Aurora Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHZ.png"
+  },
+  {
+    "code": "PW",
+    "name": "Precision Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPW.png"
+  },
+  {
+    "code": "I8",
+    "name": "Izhavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoI8.png"
+  },
+  {
+    "code": "ZP",
+    "name": "Silk Way Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZP.png"
+  },
+  {
+    "code": "BM",
+    "name": "Air Bee",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBM.png"
+  },
+  {
+    "code": "W3",
+    "name": "Arik Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoW3.png"
+  },
+  {
+    "code": "SU",
+    "name": "Aeroflot",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSU.png"
+  },
+  {
+    "code": "Y4",
+    "name": "Volaris",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoY4.png"
+  },
+  {
+    "code": "AT",
+    "name": "Royal Air Maroc",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAT.png"
+  },
+  {
+    "code": "PD",
+    "name": "Porter Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPD.png"
+  },
+  {
+    "code": "AM",
+    "name": "Aeromexico",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAM.png"
+  },
+  {
+    "code": "ENT",
+    "name": "Enter Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoENT.png"
+  },
+  {
+    "code": "TB",
+    "name": "Jetairfly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTB.png"
+  },
+  {
+    "code": "J2",
+    "name": "Azerbaijan Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJ2.png"
+  },
+  {
+    "code": "LY",
+    "name": "El Al",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLY.png"
+  },
+  {
+    "code": "IX",
+    "name": "Air India Express",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIX.png"
+  },
+  {
+    "code": "GK",
+    "name": "Jetstar Japan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGK.png"
+  },
+  {
+    "code": "SB",
+    "name": "Aircalin",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSB.png"
+  },
+  {
+    "code": "T7",
+    "name": "Twin Jet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoT7.png"
+  },
+  {
+    "code": "P0",
+    "name": "Proflight Zambia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP0.png"
+  },
+  {
+    "code": "ZK",
+    "name": "Great Lakes Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZK.png"
+  },
+  {
+    "code": "3U",
+    "name": "Sichuan Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3U.png"
+  },
+  {
+    "code": "BW",
+    "name": "Caribbean Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBW.png"
+  },
+  {
+    "code": "IO",
+    "name": "IrAero",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIO.png"
+  },
+  {
+    "code": "WG",
+    "name": "Sunwing Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWG.png"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFJ.png"
+  },
+  {
+    "code": "J9",
+    "name": "Jazeera Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJ9.png"
+  },
+  {
+    "code": "8H",
+    "name": "BH Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo8H.png"
+  },
+  {
+    "code": "PC",
+    "name": "Pegasus",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPC.png"
+  },
+  {
+    "code": "BC",
+    "name": "Skymark Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBC.png"
+  },
+  {
+    "code": "RT",
+    "name": "UVT Aero",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRT.png"
+  },
+  {
+    "code": "REGIOJET",
+    "name": "REGIOJET",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoREGIOJET.png"
+  },
+  {
+    "code": "KL",
+    "name": "KLM",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKL.png"
+  },
+  {
+    "code": "WO",
+    "name": "Swoop",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWO.png"
+  },
+  {
+    "code": "OS",
+    "name": "Austrian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOS.png"
+  },
+  {
+    "code": "SW",
+    "name": "Air Namibia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSW.png"
+  },
+  {
+    "code": "BG",
+    "name": "Biman Bangladesh Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBG.png"
+  },
+  {
+    "code": "LA",
+    "name": "LATAM",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLA.png"
+  },
+  {
+    "code": "2B",
+    "name": "Albawings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2B.png"
+  },
+  {
+    "code": "HC",
+    "name": "Air Senegal",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHC.png"
+  },
+  {
+    "code": "RJ",
+    "name": "Royal Jordanian",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRJ.png"
+  },
+  {
+    "code": "TO",
+    "name": "Transavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTO.png"
+  },
+  {
+    "code": "WM",
+    "name": "Winair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWM.png"
+  },
+  {
+    "code": "VK",
+    "name": "Air Vallée",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVK.png"
+  },
+  {
+    "code": "R6",
+    "name": "DOT LT",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoR6.png"
+  },
+  {
+    "code": "9U",
+    "name": "Air Moldova",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9U.png"
+  },
+  {
+    "code": "9I",
+    "name": "Alliance Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9I.png"
+  },
+  {
+    "code": "FC",
+    "name": "VivaColombia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFC.png"
+  },
+  {
+    "code": "LLX",
+    "name": "Small Planet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLLX.png"
+  },
+  {
+    "code": "ZB",
+    "name": "Monrach",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZB.png"
+  },
+  {
+    "code": "TVL",
+    "name": "Travel Service",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTVL.png"
+  },
+  {
+    "code": "6W",
+    "name": "Saratov Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6W.png"
+  },
+  {
+    "code": "EAF",
+    "name": "EAF",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEAF.png"
+  },
+  {
+    "code": "FN",
+    "name": "Fastjet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFN.png"
+  },
+  {
+    "code": "JD",
+    "name": "Beijing Capital Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJD.png"
+  },
+  {
+    "code": "Q6",
+    "name": "Volaris Costa Rica",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQ6.png"
+  },
+  {
+    "code": "D8",
+    "name": "Norwegian Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoD8.png"
+  },
+  {
+    "code": "T3",
+    "name": "Eastern Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoT3.png"
+  },
+  {
+    "code": "UL",
+    "name": "SriLankan Airlines ",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUL.png"
+  },
+  {
+    "code": "7I",
+    "name": "Insel Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7I.png"
+  },
+  {
+    "code": "LJ",
+    "name": "Jin Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLJ.png"
+  },
+  {
+    "code": "UM",
+    "name": "Air Zimbabwe",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUM.png"
+  },
+  {
+    "code": "ZE",
+    "name": "Eastar Jet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZE.png"
+  },
+  {
+    "code": "JY",
+    "name": "InterCaribbean Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJY.png"
+  },
+  {
+    "code": "5H",
+    "name": "Fly540",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5H.png"
+  },
+  {
+    "code": "4T",
+    "name": "Belair Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4T.png"
+  },
+  {
+    "code": "XZ",
+    "name": "South African Express Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXZ.png"
+  },
+  {
+    "code": "8I",
+    "name": "Insel Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo8I.png"
+  },
+  {
+    "code": "7P",
+    "name": "Air Panama",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7P.png"
+  },
+  {
+    "code": "ZH",
+    "name": "Shenzhen Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZH.png"
+  },
+  {
+    "code": "A2",
+    "name": "Astra Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoA2.png"
+  },
+  {
+    "code": "G3",
+    "name": "GOL Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoG3.png"
+  },
+  {
+    "code": "Y7",
+    "name": "NordStar",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoY7.png"
+  },
+  {
+    "code": "SS",
+    "name": "Corsair International",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSS.png"
+  },
+  {
+    "code": "C0",
+    "name": "Centralwings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoC0.png"
+  },
+  {
+    "code": "3M",
+    "name": "Silver Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3M.png"
+  },
+  {
+    "code": "FZ",
+    "name": "flydubai",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFZ.png"
+  },
+  {
+    "code": "K6",
+    "name": "Cambodia Angkor Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoK6.png"
+  },
+  {
+    "code": "HU",
+    "name": "Hainan Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHU.png"
+  },
+  {
+    "code": "P6",
+    "name": "Pascan Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP6.png"
+  },
+  {
+    "code": "5O",
+    "name": "ASL Airlines France",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5O.png"
+  },
+  {
+    "code": "MY",
+    "name": "MASwings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMY.png"
+  },
+  {
+    "code": "OE",
+    "name": "Laudamotion",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOE.png"
+  },
+  {
+    "code": "OK",
+    "name": "Czech Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOK.png"
+  },
+  {
+    "code": "4M",
+    "name": "LATAM Argentina",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo4M.png"
+  },
+  {
+    "code": "VH",
+    "name": "VivaColombia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVH.png"
+  },
+  {
+    "code": "PM",
+    "name": "Canaryfly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPM.png"
+  },
+  {
+    "code": "ST",
+    "name": "Germania",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoST.png"
+  },
+  {
+    "code": "EG",
+    "name": "Ernest",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEG.png"
+  },
+  {
+    "code": "ZN",
+    "name": "Naysa",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZN.png"
+  },
+  {
+    "code": "WW",
+    "name": "WOW air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWW.png"
+  },
+  {
+    "code": "MV",
+    "name": "Air Mediterranean",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMV.png"
+  },
+  {
+    "code": "SG",
+    "name": "SpiceJet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSG.png"
+  },
+  {
+    "code": "JA",
+    "name": "JetSmart",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJA.png"
+  },
+  {
+    "code": "UA",
+    "name": "United Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUA.png"
+  },
+  {
+    "code": "H1",
+    "name": "Hahn Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoH1.png"
+  },
+  {
+    "code": "CN",
+    "name": "Grand China Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCN.png"
+  },
+  {
+    "code": "IT",
+    "name": "Tigerair Taiwan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIT.png"
+  },
+  {
+    "code": "NT",
+    "name": "Binter Canarias",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNT.png"
+  },
+  {
+    "code": "9B",
+    "name": "רכבת - Deutsche Bahn",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9B.png"
+  },
+  {
+    "code": "MYX",
+    "name": "Smartlynx Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMYX.png"
+  },
+  {
+    "code": "SC",
+    "name": "Shandong Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSC.png"
+  },
+  {
+    "code": "3Z",
+    "name": "Travel Service Polska",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3Z.png"
+  },
+  {
+    "code": "MQ",
+    "name": "Envoy Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMQ.png"
+  },
+  {
+    "code": "X9",
+    "name": "Avion Express",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoX9.png"
+  },
+  {
+    "code": "MH",
+    "name": "Malaysia Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMH.png"
+  },
+  {
+    "code": "NQ",
+    "name": "Air Japan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNQ.png"
+  },
+  {
+    "code": "2J",
+    "name": "Air Burkina",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2J.png"
+  },
+  {
+    "code": "JN",
+    "name": "JOON",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJN.png"
+  },
+  {
+    "code": "CJ",
+    "name": "BA Cityflyer",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCJ.png"
+  },
+  {
+    "code": "VL",
+    "name": "Air Via",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVL.png"
+  },
+  {
+    "code": "KQ",
+    "name": "Kenya Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKQ.png"
+  },
+  {
+    "code": "W9",
+    "name": "Wizz Air UK",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoW9.png"
+  },
+  {
+    "code": "QF",
+    "name": "Qantas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQF.png"
+  },
+  {
+    "code": "M4",
+    "name": "Mistral Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoM4.png"
+  },
+  {
+    "code": "TP",
+    "name": "Air Portugal",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTP.png"
+  },
+  {
+    "code": "WF",
+    "name": "Wideroe",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWF.png"
+  },
+  {
+    "code": "ED",
+    "name": "AirExplore",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoED.png"
+  },
+  {
+    "code": "OY",
+    "name": "Andes Líneas Aéreas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOY.png"
+  },
+  {
+    "code": "JW",
+    "name": "Vanilla Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJW.png"
+  },
+  {
+    "code": "SV",
+    "name": "Saudi Arabian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSV.png"
+  },
+  {
+    "code": "XXX",
+    "name": "xxxOOO",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXXX.png"
+  },
+  {
+    "code": "VV",
+    "name": "VivaAir.com",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVV.png"
+  },
+  {
+    "code": "HY",
+    "name": "Uzbekistan Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHY.png"
+  },
+  {
+    "code": "UX",
+    "name": "Air Europa",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUX.png"
+  },
+  {
+    "code": "KK",
+    "name": "Atlasjet Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKK.png"
+  },
+  {
+    "code": "PR",
+    "name": "Philippine Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPR.png"
+  },
+  {
+    "code": "RA",
+    "name": "Nepal Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRA.png"
+  },
+  {
+    "code": "UT",
+    "name": "UTair aviayion",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUT.png"
+  },
+  {
+    "code": "HF",
+    "name": "Air Cote D'Ivoire",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHF.png"
+  },
+  {
+    "code": "BP",
+    "name": "Air Botswana",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBP.png"
+  },
+  {
+    "code": "HD",
+    "name": "Airdo",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHD.png"
+  },
+  {
+    "code": "IK",
+    "name": "Pegas Fly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIK.png"
+  },
+  {
+    "code": "A5",
+    "name": "!Hop",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoA5.png"
+  },
+  {
+    "code": "O2",
+    "name": "AIRDIALOG",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoO2.png"
+  },
+  {
+    "code": "2C",
+    "name": "SNCF - רכבת",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2C.png"
+  },
+  {
+    "code": "NF",
+    "name": "Air Vanuatu",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNF.png"
+  },
+  {
+    "code": "EK",
+    "name": "Emirates",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEK.png"
+  },
+  {
+    "code": "5U",
+    "name": "TAG",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5U.png"
+  },
+  {
+    "code": "6F",
+    "name": "Primera Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6F.png"
+  },
+  {
+    "code": "FD",
+    "name": "Thai AirAsia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFD.png"
+  },
+  {
+    "code": "SE",
+    "name": "XL Airways France",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSE.png"
+  },
+  {
+    "code": "DL",
+    "name": "Delta",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDL.png"
+  },
+  {
+    "code": "EZ",
+    "name": "Sun Air of Scandinavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEZ.png"
+  },
+  {
+    "code": "TC",
+    "name": "Air Tanzania",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTC.png"
+  },
+  {
+    "code": "ZF",
+    "name": "Azur Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZF.png"
+  },
+  {
+    "code": "PF",
+    "name": "Primera Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPF.png"
+  },
+  {
+    "code": "I5",
+    "name": "AirAsia India",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoI5.png"
+  },
+  {
+    "code": "SL",
+    "name": "Thai Lion Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSL.png"
+  },
+  {
+    "code": "MN",
+    "name": "Comair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMN.png"
+  },
+  {
+    "code": "EY",
+    "name": "Etihad Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEY.png"
+  },
+  {
+    "code": "TW",
+    "name": "T'way Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTW.png"
+  },
+  {
+    "code": "TI",
+    "name": "Tailwind Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTI.png"
+  },
+  {
+    "code": "FHY",
+    "name": "Freebird Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFHY.png"
+  },
+  {
+    "code": "VW",
+    "name": "Aeromar",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVW.png"
+  },
+  {
+    "code": "9W",
+    "name": "Jet Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9W.png"
+  },
+  {
+    "code": "DD",
+    "name": "Nok Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDD.png"
+  },
+  {
+    "code": "TT",
+    "name": "Tigerair Australia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTT.png"
+  },
+  {
+    "code": "F9",
+    "name": "Frontier Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoF9.png"
+  },
+  {
+    "code": "DP",
+    "name": "Pobeda",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDP.png"
+  },
+  {
+    "code": "FA",
+    "name": "Safair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFA.png"
+  },
+  {
+    "code": "BR",
+    "name": "Eva Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBR.png"
+  },
+  {
+    "code": "B2",
+    "name": "Belavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoB2.png"
+  },
+  {
+    "code": "OB",
+    "name": "Blue Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOB.png"
+  },
+  {
+    "code": "EN",
+    "name": "Air Dolomiti",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEN.png"
+  },
+  {
+    "code": "EE",
+    "name": "Regional Jet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEE.png"
+  },
+  {
+    "code": "LX",
+    "name": "Swiss",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLX.png"
+  },
+  {
+    "code": "3O",
+    "name": "Air Arabia Maroc",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3O.png"
+  },
+  {
+    "code": "IG",
+    "name": "Meridiana",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIG.png"
+  },
+  {
+    "code": "UP",
+    "name": "Bahamasair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoUP.png"
+  },
+  {
+    "code": "RM",
+    "name": "Aircompany Armenia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoRM.png"
+  },
+  {
+    "code": "GH",
+    "name": "Globus LLC",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGH.png"
+  },
+  {
+    "code": "HE",
+    "name": "Luftfahrtgesellschaft Walter",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHE.png"
+  },
+  {
+    "code": "CL",
+    "name": "Lufthansa CityLine",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCL.png"
+  },
+  {
+    "code": "AQ",
+    "name": "9 Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAQ.png"
+  },
+  {
+    "code": "AZ",
+    "name": "ITA Airway",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAZ.png"
+  },
+  {
+    "code": "FPO",
+    "name": "ASL Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFPO.png"
+  },
+  {
+    "code": "PS",
+    "name": "Ukraine Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPS.png"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan International Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPK.png"
+  },
+  {
+    "code": "QV",
+    "name": "Lao Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQV.png"
+  },
+  {
+    "code": "JU",
+    "name": "Air serbia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJU.png"
+  },
+  {
+    "code": "7M",
+    "name": "MAYAir",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7M.png"
+  },
+  {
+    "code": "SA",
+    "name": "South African Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSA.png"
+  },
+  {
+    "code": "9N",
+    "name": "Tropic Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9N.png"
+  },
+  {
+    "code": "Z2",
+    "name": "Philippines AirAsia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZ2.png"
+  },
+  {
+    "code": "KC",
+    "name": "Air Astana",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKC.png"
+  },
+  {
+    "code": "JO",
+    "name": "Jettime",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJO.png"
+  },
+  {
+    "code": "WN",
+    "name": "Southwest Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWN.png"
+  },
+  {
+    "code": "2N",
+    "name": "NextJet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2N.png"
+  },
+  {
+    "code": "LYUP",
+    "name": "UP",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLYUP.png"
+  },
+  {
+    "code": "AD",
+    "name": "Azul Linhas Aéreas Brasileiras",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAD.png"
+  },
+  {
+    "code": "AA",
+    "name": "American Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAA.png"
+  },
+  {
+    "code": "SY",
+    "name": "Sun Country Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSY.png"
+  },
+  {
+    "code": "MW",
+    "name": "Mokulele Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMW.png"
+  },
+  {
+    "code": "CM",
+    "name": "Copa Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCM.png"
+  },
+  {
+    "code": "E9",
+    "name": "Evelop Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoE9.png"
+  },
+  {
+    "code": "PX",
+    "name": "Air Niugini",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPX.png"
+  },
+  {
+    "code": "VA",
+    "name": "Virgin Australia ",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVA.png"
+  },
+  {
+    "code": "H9",
+    "name": "Himalaya Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoH9.png"
+  },
+  {
+    "code": "N7",
+    "name": "Nordic Regional Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoN7.png"
+  },
+  {
+    "code": "MM",
+    "name": "Peach Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoMM.png"
+  },
+  {
+    "code": "XC",
+    "name": "Corendon Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXC.png"
+  },
+  {
+    "code": "WP",
+    "name": "Hawaii Island Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWP.png"
+  },
+  {
+    "code": "CXI",
+    "name": "Corendon Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCXI.png"
+  },
+  {
+    "code": "M9",
+    "name": "Motor-Sich",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoM9.png"
+  },
+  {
+    "code": "D4",
+    "name": "Dart Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoD4.png"
+  },
+  {
+    "code": "TF",
+    "name": "Braathens Regional Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTF.png"
+  },
+  {
+    "code": "NY",
+    "name": "Air Iceland Connect",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNY.png"
+  },
+  {
+    "code": "IR",
+    "name": "Iran Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIR.png"
+  },
+  {
+    "code": "QG",
+    "name": "Citilink Indonesia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQG.png"
+  },
+  {
+    "code": "IB",
+    "name": "Iberia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoIB.png"
+  },
+  {
+    "code": "B5",
+    "name": "East African Safari Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoB5.png"
+  },
+  {
+    "code": "P5",
+    "name": "Copa Airlines Colombia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoP5.png"
+  },
+  {
+    "code": "N-",
+    "name": "N-",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoN-.png"
+  },
+  {
+    "code": "6E",
+    "name": "IndiGo",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6E.png"
+  },
+  {
+    "code": "JT",
+    "name": "Lion Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJT.png"
+  },
+  {
+    "code": "FM",
+    "name": "Shanghai Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoFM.png"
+  },
+  {
+    "code": "XY",
+    "name": "flynas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXY.png"
+  },
+  {
+    "code": "ZX",
+    "name": "Air Georgian",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZX.png"
+  },
+  {
+    "code": "NO",
+    "name": "Neos",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNO.png"
+  },
+  {
+    "code": "AH",
+    "name": "Air Algerie",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAH.png"
+  },
+  {
+    "code": "KE",
+    "name": "Korean Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoKE.png"
+  },
+  {
+    "code": "QA",
+    "name": "Cimber Sterling",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQA.png"
+  },
+  {
+    "code": "HV",
+    "name": "Transavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoHV.png"
+  },
+  {
+    "code": "VX",
+    "name": "Virgin America",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVX.png"
+  },
+  {
+    "code": "PVG",
+    "name": "Privilege Style",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoPVG.png"
+  },
+  {
+    "code": "SX",
+    "name": "SkyWork Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSX.png"
+  },
+  {
+    "code": "A9",
+    "name": "Georgian Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoA9.png"
+  },
+  {
+    "code": "2Z",
+    "name": "Passaredo Transportes Aereos",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo2Z.png"
+  },
+  {
+    "code": "5K",
+    "name": "Hi Fly",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5K.png"
+  },
+  {
+    "code": "5Z",
+    "name": "Cemair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5Z.png"
+  },
+  {
+    "code": "O6",
+    "name": "Oceanair",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoO6.png"
+  },
+  {
+    "code": "S5",
+    "name": "Small Planet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoS5.png"
+  },
+  {
+    "code": "WK",
+    "name": "Edelweiss Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWK.png"
+  },
+  {
+    "code": "QK",
+    "name": "Jazz Aviation",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoQK.png"
+  },
+  {
+    "code": "5N",
+    "name": "Nordavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo5N.png"
+  },
+  {
+    "code": "OO",
+    "name": "SkyWest Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOO.png"
+  },
+  {
+    "code": "LO",
+    "name": "Lot",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLO.png"
+  },
+  {
+    "code": "U6",
+    "name": "Ural Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoU6.png"
+  },
+  {
+    "code": "CI",
+    "name": "China Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCI.png"
+  },
+  {
+    "code": "CO",
+    "name": "Cobalt Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCO.png"
+  },
+  {
+    "code": "CZ",
+    "name": "China Southern",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCZ.png"
+  },
+  {
+    "code": "JP",
+    "name": "Adria Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJP.png"
+  },
+  {
+    "code": "BD",
+    "name": "Cambodia Bayon Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBD.png"
+  },
+  {
+    "code": "BJ",
+    "name": "Nouvelair Tunisie",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBJ.png"
+  },
+  {
+    "code": "CAI",
+    "name": "Corendon",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCAI.png"
+  },
+  {
+    "code": "Z6",
+    "name": "Dniproavia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZ6.png"
+  },
+  {
+    "code": "EI",
+    "name": "Aer Lingus",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEI.png"
+  },
+  {
+    "code": "G6",
+    "name": "Guine Bissau Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoG6.png"
+  },
+  {
+    "code": "ZI",
+    "name": "Aigle Azur",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZI.png"
+  },
+  {
+    "code": "3S",
+    "name": "Air Antilles",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo3S.png"
+  },
+  {
+    "code": "BX",
+    "name": "Air Busan",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBX.png"
+  },
+  {
+    "code": "ZM",
+    "name": "Air Manas",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoZM.png"
+  },
+  {
+    "code": "OZ",
+    "name": "Asiana Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOZ.png"
+  },
+  {
+    "code": "L6",
+    "name": "Mauritania Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoL6.png"
+  },
+  {
+    "code": "NX",
+    "name": "Air Macau",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoNX.png"
+  },
+  {
+    "code": "VIM",
+    "name": "AIR VIA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoVIM.png"
+  },
+  {
+    "code": "8Q",
+    "name": "Onur Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo8Q.png"
+  },
+  {
+    "code": "E2",
+    "name": "Eurowings",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoE2.png"
+  },
+  {
+    "code": "JQ",
+    "name": "Jetstar Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJQ.png"
+  },
+  {
+    "code": "EQ",
+    "name": "Tame",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoEQ.png"
+  },
+  {
+    "code": "CY",
+    "name": "Charlie Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCY.png"
+  },
+  {
+    "code": "S2",
+    "name": "Jet Lite",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoS2.png"
+  },
+  {
+    "code": "SZ",
+    "name": "Somon Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoSZ.png"
+  },
+  {
+    "code": "WI",
+    "name": "White Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoWI.png"
+  },
+  {
+    "code": "7J",
+    "name": "Tajik Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7J.png"
+  },
+  {
+    "code": "DT",
+    "name": "TAAG Angola Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDT.png"
+  },
+  {
+    "code": "JM",
+    "name": "Jambojet",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoJM.png"
+  },
+  {
+    "code": "AEA",
+    "name": "Air Europa",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoAEA.png"
+  },
+  {
+    "code": "YW",
+    "name": "Air Nostrum",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoYW.png"
+  },
+  {
+    "code": "TS",
+    "name": "Air Transat",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTS.png"
+  },
+  {
+    "code": "OM",
+    "name": "Mongolian Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoOM.png"
+  },
+  {
+    "code": "CC",
+    "name": "Air Atlanta Icelandic",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCC.png"
+  },
+  {
+    "code": "DG",
+    "name": "Cebgo",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoDG.png"
+  },
+  {
+    "code": "GE",
+    "name": "TransAsia Airways",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGE.png"
+  },
+  {
+    "code": "XK",
+    "name": "Air Corsica",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXK.png"
+  },
+  {
+    "code": "GF",
+    "name": "Gulf Air",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGF.png"
+  },
+  {
+    "code": "CND",
+    "name": "Corendon",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoCND.png"
+  },
+  {
+    "code": "9F",
+    "name": "Eurostar",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo9F.png"
+  },
+  {
+    "code": "TZ",
+    "name": "Scoot",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoTZ.png"
+  },
+  {
+    "code": "BBG",
+    "name": "Blue Bird",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBBG.png"
+  },
+  {
+    "code": "LS",
+    "name": "Jet2.com",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoLS.png"
+  },
+  {
+    "code": "XR",
+    "name": "Corendon Airlines Europe",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXR.png"
+  },
+  {
+    "code": "GA",
+    "name": "Garuda Indonesia",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoGA.png"
+  },
+  {
+    "code": "XW",
+    "name": "NokScoot",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoXW.png"
+  },
+  {
+    "code": "BZ",
+    "name": "Blue Bird",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBZ.png"
+  },
+  {
+    "code": "7W",
+    "name": "Windrose Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo7W.png"
+  },
+  {
+    "code": "6R",
+    "name": "ALROSA",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogo6R.png"
+  },
+  {
+    "code": "BI",
+    "name": "Royal Brunei Airlines",
+    "logo": "https://alicesearch.blob.core.windows.net/airline-logos/FlightCompanyWingLogoBI.png"
+  }
+]
