@@ -6,9 +6,11 @@ import { BReview, scoreProps } from "../components/b-review";
 import { BReviewStars } from "../components/b-review-stars";
 import { BSpacer } from "../components/b-spacer";
 import { BTitle } from "../components/btitle";
+import { useIsMobile } from "../context/is-mobile-context";
 import { IAirlineResponse } from "../models/IAirlineResponse";
 
 export const Airline: React.FC = () => {
+  const isMobile = useIsMobile();
   const { airlineCode } = useParams();
   const [airline, setAirline] = useState<IAirlineResponse | null>(null);
   useEffect(() => {
@@ -51,37 +53,51 @@ export const Airline: React.FC = () => {
   }
 
   return (
-    <div>
-      <BSpacer />
-      <BSpacer />
+    <div style={{ padding: "10px" }}>
+      {!isMobile ? (
+        <>
+          <BSpacer />
+          <BSpacer />
+        </>
+      ) : null}
       <BTitle>
         <img src={airline.logo} alt="" style={{ height: "24px" }} />
         &nbsp;&nbsp;
         {airline.name}&nbsp;{"-"}&nbsp;{airline.code}
       </BTitle>
       <BSpacer />
-      <div style={{ display: "flex" }}>
-        <div style={{ width: "30%" }}>
+      <div style={{ display: "flex", flexWrap: "wrap" }}>
+        <div style={{ width: isMobile ? "100%" : "30%" }}>
           <div>Customer Support Email</div>
           <div>{airline.customerServiceEmail}</div>
-          <BSpacer />
+          {!isMobile ? <BSpacer /> : null}
           <div>Customer Support Phone</div>
           <div>{airline.customerServicePhone}</div>
-          <BSpacer />
+          {!isMobile ? <BSpacer /> : null}
           <div>Website</div>
           <div>{airline.customerServiceWebsite}</div>
-          <BSpacer />
-          {calculatedScores?.map((reviewTotal) => (
-            <div key={reviewTotal.prop}>
-              <div>{reviewTotal.title}</div>
-              <div>
-                <BReviewStars amount={Math.round(reviewTotal.score)} />
+          <div>
+            <BSpacer />
+            {calculatedScores?.map((reviewTotal) => (
+              <div
+                key={reviewTotal.prop}
+                style={
+                  isMobile
+                    ? { display: "inline-block", width: "50%" }
+                    : undefined
+                }
+              >
+                <div>{reviewTotal.title}</div>
+                <div>
+                  <BReviewStars amount={Math.round(reviewTotal.score)} />
+                </div>
+                {!isMobile ? <BSpacer /> : null}
               </div>
-              <BSpacer />
-            </div>
-          ))}
+            ))}
+          </div>
+          {isMobile ? <BSpacer /> : null}
         </div>
-        <div style={{ width: "70%" }}>
+        <div style={{ width: isMobile ? "100%" : "70%" }}>
           {airline.reviews.map((review, index) => (
             <BReview review={review} key={index} />
           ))}

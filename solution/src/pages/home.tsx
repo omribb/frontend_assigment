@@ -62,6 +62,7 @@ const HomeWrapper = styled.div`
   align-items: center;
   height: 100vh;
   width: 100%;
+  padding: 10px;
   .main-content {
     display: block;
     text-align: center;

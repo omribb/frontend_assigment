@@ -13,7 +13,7 @@ const Wrapper = styled.div`
     font-family: Assistant, Arial, Helvetica, sans-serif;
     font-weight: 300;
     &:focus {
-      border: 1px solid ${(props): string => props.theme.colors.main};
+      border: 1px solid ${(props): string => props.theme.colors.accentColor};
     }
   }
 `;

@@ -1,6 +1,7 @@
 import { get } from "lodash";
 import React from "react";
 import styled from "styled-components";
+import { useIsMobile } from "../context/is-mobile-context";
 import { Review } from "../models/IAirlineResponse";
 import { BReviewStars } from "./b-review-stars";
 
@@ -14,13 +15,18 @@ export const scoreProps = [
 ];
 
 export const BReview: React.FC<{ review: Review }> = ({ review }) => {
+  const isMobile = useIsMobile();
+
   return (
-    <Wrapper>
-      <div className="avatar"><div className="circle"></div></div>
+    <Wrapper isMobile={isMobile}>
+      <div className="avatar">
+        <div className="circle"></div>
+      </div>
       <div className="review">
         <div className="name-title">{review.customerName}</div>
         <div>{review.review}</div>
       </div>
+      {isMobile ? <div className="line">&nbsp;</div> : null}
       <div className="score">
         {scoreProps.map((item) => (
           <div key={item.prop} style={{ display: "flex" }}>
@@ -38,13 +44,15 @@ export const BReview: React.FC<{ review: Review }> = ({ review }) => {
   );
 };
 
-const Wrapper = styled.div`
+const Wrapper = styled.div<{ isMobile: boolean }>`
   display: flex;
-  padding: 10px;
+  flex-wrap: wrap;
+  padding: 10px 20px 10px 10px;
   border-radius: ${(props): string => props.theme.borderRadius};
   background-color: ${(props): string => props.theme.colors.veryLightGrey};
   margin-bottom: 10px;
   .avatar {
+    display: ${(props): string => props.isMobile ? "none" : "unset"};
     width: 50px;
     .circle {
       width: 40px;
@@ -55,13 +63,14 @@ const Wrapper = styled.div`
     }
   }
   .review {
-    width: calc(100% - 280px - 50px);
+    width: ${(props): string =>
+      props.isMobile ? "calc(100% - 50px)" : "calc(100% - 320px)"};
     padding-right: 20px;
     .name-title {
       font-size: 22px;
     }
   }
   .score {
-    width: 280px;
+    width: ${(props): string => (props.isMobile ? "100%" : "270px")};
   }
 `;
