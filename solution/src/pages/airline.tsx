@@ -87,6 +87,8 @@ export const Airline: React.FC = () => {
           ))}
         </div>
       </div>
+      <BSpacer />
+      <BSpacer />
     </div>
   );
 };

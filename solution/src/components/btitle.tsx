@@ -6,3 +6,8 @@ export const BTitle = styled.div`
   font-weight: 600;
   text-transform: uppercase;
 `;
+
+
+export const BTitleRegularColor = styled(BTitle)`
+  color: ${(props): string => props.theme.colors.main};
+`;

@@ -1,12 +1,14 @@
 import React, { useEffect, useState } from "react";
 import { BInput } from "../components/binput";
-import { BTitle } from "../components/btitle";
+import { BTitle, BTitleRegularColor } from "../components/btitle";
 import axios from "axios";
 import { IAirlineSearchResponse } from "../models/IAirlineSearchResponse";
 import { useDebounce } from "../hooks/use-debounce";
 import { BAirlineLine } from "../components/bairline-line";
 import { BSpacer } from "../components/b-spacer";
 import styled from "styled-components";
+import logo from "../assets/blackrabbit-black-logo.svg";
+
 export const Home: React.FC = () => {
   const [search, setSearch] = useState("");
   const debounce = useDebounce(search);
@@ -29,7 +31,11 @@ export const Home: React.FC = () => {
   return (
     <HomeWrapper>
       <div className="main-content">
-        <BTitle>Black Rabbit</BTitle>
+        <div>
+          <img src={logo} alt="" style={{ height: "50px" }} />
+        </div>
+        <BSpacer />
+        <BTitleRegularColor>Black Rabbit</BTitleRegularColor>
         <BTitle>Know your airline!</BTitle>
         <BSpacer />
         <div style={{ textAlign: "center" }}>

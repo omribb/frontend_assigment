@@ -12,7 +12,7 @@ const Wrapper = styled.div`
   user-select: none;
   text-align: start;
   &:hover {
-    background-color: lightgrey;
+    background-color: ${(props): string => props.theme.colors.veryLightGrey};
   }
 `;
 
