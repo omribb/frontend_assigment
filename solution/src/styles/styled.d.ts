@@ -10,6 +10,7 @@ declare module "styled-components" {
       main: string;
       accentColor: string;
       veryLightGrey: string;
+      grey: string;
     };
   }
 }

@@ -60,7 +60,7 @@ const HomeWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: calc(100vh - 60px);
   width: 100%;
   padding: 10px;
   .main-content {

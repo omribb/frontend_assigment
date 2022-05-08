@@ -64,7 +64,7 @@ const Wrapper = styled.div<{ isMobile: boolean }>`
   }
   .review {
     width: ${(props): string =>
-      props.isMobile ? "calc(100% - 50px)" : "calc(100% - 320px)"};
+      props.isMobile ? "100%" : "calc(100% - 320px)"};
     padding-right: 20px;
     .name-title {
       font-size: 22px;

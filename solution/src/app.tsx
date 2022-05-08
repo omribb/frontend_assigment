@@ -1,10 +1,12 @@
 import React, { useCallback, useEffect, useState } from "react";
 import { Route, Routes } from "react-router-dom";
 import { BAppWrapper } from "./components/bapp-wrapper";
+import { Menu } from "./components/menu";
 import { IsMobileContext } from "./context/is-mobile-context";
 import { About } from "./pages/about";
 import { Airline } from "./pages/airline";
 import { Home } from "./pages/home";
+import { Instructions } from "./pages/instructions";
 import { GlobalStyle } from "./styles/global-style";
 
 export const App: React.FC = () => {
@@ -20,12 +22,14 @@ export const App: React.FC = () => {
   }, []);
   return (
     <IsMobileContext.Provider value={isMobile}>
+      <Menu />
       <BAppWrapper>
         <GlobalStyle />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/airline/:airlineCode" element={<Airline />} />
+          <Route path="/instructions" element={<Instructions />} />
         </Routes>
       </BAppWrapper>
     </IsMobileContext.Provider>
