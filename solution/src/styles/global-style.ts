@@ -21,4 +21,14 @@ export const GlobalStyle = createGlobalStyle`
     content: "";
     width: 100%;
   }
+  code, pre {
+    border-radius: 3px;
+    padding: 2px 5px;
+    border: 1px solid #e8e8e8;
+    background-color: #F8F8F8;
+    font-size: 14px;
+  }
+  pre {
+    font-size: 12px;
+  }
 `;
