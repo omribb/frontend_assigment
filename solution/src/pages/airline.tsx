@@ -13,15 +13,23 @@ export const Airline: React.FC = () => {
   const isMobile = useIsMobile();
   const { airlineCode } = useParams();
   const [airline, setAirline] = useState<IAirlineResponse | null>(null);
+  const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
     if (airlineCode) {
+      setIsLoading(true);
       axios
         .get<IAirlineResponse>(
           "https://frontend-assignment-api.azurewebsites.net/api/airline?airline-code=" +
             airlineCode
         )
-        .then((res) => setAirline(res.data))
-        .catch(() => setAirline(null));
+        .then((res) => {
+          setAirline(res.data);
+          setIsLoading(false);
+        })
+        .catch(() => {
+          setAirline(null);
+          setIsLoading(false);
+        });
     }
   }, [airlineCode]);
 
@@ -47,6 +55,12 @@ export const Airline: React.FC = () => {
     }
     return toReturn;
   }, [airline]);
+
+  if (isLoading) {
+    return (
+      <div style={{ padding: "10px" }}>Loading...</div>
+    )
+  }
 
   if (!airline) {
     return null;

@@ -130,7 +130,7 @@ export const Instructions: React.FC = () => {
       </div>
       <div>
         *An important thing to know: because we want to show the results as the
-        user types our backend team asked not to stress the API too much and
+        user types, our backend team asked not to stress the API too much and
         make too many calls. please debounce while the user types in order to
         reduce the number of api calls.
       </div>
@@ -302,9 +302,9 @@ export const Instructions: React.FC = () => {
       </div>
       <div>&nbsp;</div>
       <div>
-        When submitting your solution please zip your code (with node modules)
-        and provide instructions on how to run it. you can choose whatever
-        framework or library you wish.
+        When submitting your solution please zip your code or create a github
+        repo (without node modules) and provide instructions on how to run it.
+        you can choose whatever framework or library you wish.
       </div>
       <div>&nbsp;</div>
       <div>

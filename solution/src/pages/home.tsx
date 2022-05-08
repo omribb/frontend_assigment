@@ -8,24 +8,43 @@ import { BAirlineLine } from "../components/bairline-line";
 import { BSpacer } from "../components/b-spacer";
 import styled from "styled-components";
 import logo from "../assets/blackrabbit-black-logo.svg";
+import spinner from '../assets/spinner.svg';
 
 export const Home: React.FC = () => {
   const [search, setSearch] = useState("");
   const debounce = useDebounce(search);
   const [result, setResult] = useState<IAirlineSearchResponse[]>([]);
+  const [isLoading, setIsLoading] = useState(0);
 
   useEffect(() => {
     if (!debounce || debounce === "") {
       setResult([]);
       return;
     }
+    setIsLoading((s) => s + 1);
     axios
       .get<IAirlineSearchResponse[]>(
         "https://frontend-assignment-api.azurewebsites.net/api/search?query=" +
           debounce
       )
-      .then((res) => setResult(res.data ?? []))
-      .catch(() => setResult([]));
+      .then((res) => {
+        setResult(res.data ?? []);
+        setIsLoading((s) => {
+          if (s > 0) {
+            return s - 1;
+          }
+          return 0;
+        });
+      })
+      .catch(() => {
+        setResult([]);
+        setIsLoading((s) => {
+          if (s > 0) {
+            return s - 1;
+          }
+          return 0;
+        });
+      });
   }, [debounce]);
 
   return (
@@ -38,12 +57,23 @@ export const Home: React.FC = () => {
         <BTitleRegularColor>Black Rabbit</BTitleRegularColor>
         <BTitle>Know your airline!</BTitle>
         <BSpacer />
-        <div style={{ textAlign: "center" }}>
+        <div style={{ textAlign: "center", position: "relative" }}>
           <BInput
             onChange={setSearch}
             value={search}
             placeHolder="Search for airline"
           />
+          {isLoading ? (
+            <div
+              style={{
+                position: "absolute",
+                top: "5px",
+                right: "5px",
+              }}
+            >
+              <img src={spinner} alt="" style={{ height: "30px" }} />
+            </div>
+          ) : null}
         </div>
         <BSpacer />
         <div style={{ height: "300px", overflowY: "auto" }}>
